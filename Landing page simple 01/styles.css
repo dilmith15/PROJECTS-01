@@ -1,0 +1,33 @@
+.buy_btn{
+    width: 150px;
+    height: 50px;
+    background-color: #ffffffff;
+    border-radius: 100px;
+    color: #000;
+    margin-right:30px ;
+}
+.pay_btn{
+    width: 150px;
+    height: 50px;
+    background-color: transparent;
+    border-radius: 100px;
+    color: #ffffffff;
+    border: 2px white solid;
+}
+
+.btn{
+    margin-top: 40px;
+}
+
+.Container{
+    display: flex;
+    flex-direction: row;
+}
+.leftContainer{
+    margin: 30px;
+    margin-top: 150px;
+    margin-left: 70px;
+}
+.rightContainer{
+    padding-left: 100px;
+}
